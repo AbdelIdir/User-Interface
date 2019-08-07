@@ -64,3 +64,102 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+.container{
+	margin : 0 auto;
+	max-width:900px;
+		
+}
+.navigation{
+	width: 900px;
+	display:inline-block;
+}
+.logo{
+	display: inline-block;
+}
+
+a{
+	 color : lightgray;
+	 display: inline-block;
+	 padding:10px; 
+     border: 10px ;
+     margin: 10px; 
+}
+
+.innovationbox{
+	box-sizing: border-box;
+	display: inline-block;
+
+}
+
+#forhead{
+	display:inline-block;
+}
+ h1{
+	
+	text-align: center;
+	font-size: 90px;
+ }
+ .getstarted{
+	box-sizing: border-box;
+
+	margin: 2px;
+	padding: 1px;
+	border: solid black 2px;
+  left: 0;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  
+ }
+ #mage{
+	 
+    width: 300px;
+  height: 100px;  
+  padding: 50px;
+	 display:inline-block;
+     right: 30px;
+ }
+ .
+ }
+
+ .features {
+
+	width:200px;
+	margin:100px;
+	padding:150px;
+	border:2px;
+	display: inline-block;
+ }
+ .about {
+	 width: 420px;
+	  display: inline-block;
+	 
+	 
+	
+ }
+
+ .last{
+	display:inline-block;
+ }
+ #contact{
+	 margin 40px;
+	 padding 40px;
+ }
+
+ .footer{
+	text-align: center;
+ }
+ 
+ 
+ #thisone {
+	display:inline-block;
+ }
+ nav{
+
+	display:inline-block;
+ }
+ .twoarticle{
+	display:inline-block;
+
+ }
